@@ -1,0 +1,7 @@
+Promoted Customer ID 2 to VIP.
+Promoted Customer ID 3 to VIP.
+Promoted Customer ID 5 to VIP.
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.014

@@ -1,0 +1,118 @@
+Table SAVINGSACCOUNTS created.
+
+Elapsed: 00:00:00.016
+
+
+Table EMPLOYEES created.
+
+Elapsed: 00:00:00.010
+
+
+Table ACCOUNTS created.
+
+Elapsed: 00:00:00.010
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.014
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.013
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.013
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.001
+
+
+1 row inserted.
+
+Elapsed: 00:00:00.002
+
+
+Commit complete.
+
+Elapsed: 00:00:00.002
+
+
+Procedure PROCESSMONTHLYINTEREST compiled
+
+Elapsed: 00:00:00.016
+
+
+Procedure UPDATEEMPLOYEEBONUS compiled
+
+Elapsed: 00:00:00.022
+
+
+Procedure TRANSFERFUNDS compiled
+
+Elapsed: 00:00:00.024
+
+Interest applied to Account ID: 101
+Interest applied to Account ID: 102
+Interest applied to Account ID: 103
+Interest applied to Account ID: 104
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.009
+
+Bonus applied to Employee ID: 201
+Bonus applied to Employee ID: 203
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.010
+
+Transferred $2000 from Account 301 to Account 302
+
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.006

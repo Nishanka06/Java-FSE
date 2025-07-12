@@ -1,0 +1,7 @@
+Applied discount for Customer ID 1
+Applied discount for Customer ID 3
+Applied discount for Customer ID 5
+
+PL/SQL procedure successfully completed.
+
+Elapsed: 00:00:00.006
